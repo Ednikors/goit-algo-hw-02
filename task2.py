@@ -40,8 +40,7 @@ if __name__ == "__main__":
         "Hello World",
         "Madam",
         "Step on no pets",
-        "Python",
-        "А роза упала на лапу Азора"
+        "Python"
     ]
     
     print("=" * 50)
